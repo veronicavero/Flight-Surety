@@ -3,17 +3,26 @@
 FlightSurety is an application project Flight Surety.
 
 Programming Library
+
 Truffle v5.4.22 (core: 5.4.22)
+
 Solidity - ^0.4.24 (solc-js)
+
 Node v10.15.0
+
 Web3.js v1.5.3
 
+
 Environment Setup
+
 Metamask
+
 Ganache
     Version 2.5.4 (2.5.4.1367) 
+    
 MacOX
     MacOX Big Sur (Version 11.6)
+    
 
 ## Install
 
